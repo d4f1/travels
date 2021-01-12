@@ -1,0 +1,10 @@
+robotframework-selenium2library==3.0.0
+cmake
+opencv-python==4.4.0.44
+robotframework-screencaplibrary==1.4.1
+gherkin2robotframework==0.3
+robotframework-xvfb==1.2.2
+robotframework-lint==1.1
+robotframework-datetime-tz
+requests~=2.18.4
+robotframework~=3.2.2
